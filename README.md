@@ -12,7 +12,7 @@ Build portfolio with pure Html, CSS, JavaScript
 
 ## Live Demo
 
-[Portfolio](https://raw.githubusercontent.com/ampek01/personal-portfolio-1/refs/heads/main/index.html)
+[Portfolio](https://github.com/ampek01/personal-portfolio-1/blob/e9f1aeb8cec76c154dce744ddf8e7f8518ba8a96/index.html)
 
 
 
